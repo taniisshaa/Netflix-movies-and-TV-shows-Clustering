@@ -10,3 +10,4 @@ Exploratory Data Analysis
 Understanding what type content is available in different countries
 If Netflix has been increasingly focusing on TV rather than movies in recent years.
 Clustering similar content by matching text-based features
+![](https://github.com/taniisshaa/Netflix-movies-and-TV-shows-Clustering/blob/main/Unsupervised_ML_Netflix_Movies_and_TV_Shows_Clustering_ce34d02ec9.png)
