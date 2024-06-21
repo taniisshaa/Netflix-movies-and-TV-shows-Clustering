@@ -24,23 +24,24 @@ Pandas for data manipulation, aggregation Matplotlib and Seaborn for visualizati
 
 Step Wise Project Outline:
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Understanding the dataset and problem statement.
+Understanding the dataset and problem statement.
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Efficient EDA
+Efficient EDA
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Dealing with missing values and outliers
+Dealing with missing values and outliers
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Cleaning the document
+Cleaning the document
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Exploring exceptional cases
+Exploring exceptional cases
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Pre processing- TFIDF/ bag of words
+Pre processing- TFIDF/ bag of words
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Selecting the approach and algorithm to be used.
+Selecting the approach and algorithm to be used.
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Modeling- use at least 2 algorithms.
+Modeling- use at least 2 algorithms.
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Brief strategy for clusters formed.
+Brief strategy for clusters formed.
 
-360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv Conclusion.
+Conclusion.
+
 ![](https://github.com/taniisshaa/Netflix-movies-and-TV-shows-Clustering/blob/main/tenor.gif)
